@@ -47,7 +47,7 @@ search:
         other: 検索
 
     placeholder:
-        other: 入力...
+        other: キーワードを入力してください...
 
     resultTitle:
         other: "#PAGES_COUNT 件 （#TIME_SECONDS 秒）"
